@@ -1,0 +1,10 @@
+{
+    "audio": {
+        "uri": "gs://プロジェクト名_api_data/voice-iyashi-omamori-kotoba.wav"
+    },
+    "config": {
+        "encoding": "LINEAR16",
+        "languageCode": "ja-JP",
+        "sampleRateHertz": 44100
+    }
+}

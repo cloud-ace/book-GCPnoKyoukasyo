@@ -1,0 +1,13 @@
+{
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "mid": "/m/03bj1",
+                    "description": "giant panda",
+                    "score": 0.98134375
+                }
+            ]
+        }
+    ]
+}
