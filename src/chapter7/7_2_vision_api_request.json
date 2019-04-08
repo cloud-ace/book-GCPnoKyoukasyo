@@ -1,0 +1,17 @@
+{
+    "requests": [
+        {
+            "image": {
+                "source": {
+                    "gcsImageUri": "gs://プロジェクト名_img_list/cropped_panda.jpg"
+                }
+            },
+            "features": [
+                {
+                    "type": "LABEL_DETECTION",
+                    "maxResults": 1
+                }
+            ]
+        }
+    ]
+}

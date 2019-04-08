@@ -1,0 +1,43 @@
+{
+    "name": "us-east1.16467906936226779757",
+    "metadata": {
+        "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoProgress",
+        "annotationProgress": [
+            {
+                "inputUri": "/プロジェクト名_video_list/sample.mp4",
+                "progressPercent": 100,
+                "startTime": "2018-01-22T14:11:21.474576Z",
+                "updateTime": "2018-01-22T14:12:27.280931Z"
+            },
+            {
+                "inputUri": "/プロジェクト名_video_list/sample.mp4",
+                "startTime": "2018-01-22T14:11:21.474576Z",
+                "updateTime": "2018-01-22T14:11:21.477247Z"
+            },
+            {
+                "inputUri": "/プロジェクト名_video_list/sample.mp4",
+                "startTime": "2018-01-22T14:11:21.474576Z",
+                "updateTime": "2018-01-22T14:11:21.477247Z"
+            }
+        ]
+    },
+    "response": {
+        "@type": "type.googleapis.com/google.cloud.videointelligence.v1.AnnotateVideoResponse",
+        "annotationResults": [
+            {
+                "inputUri": "/プロジェクト名_video_list/sample.mp4",
+                "shotAnnotations": [
+                    {
+                        "startTimeOffset": "0s",
+                        "endTimeOffset": "0.467133s"
+                    },
+                    〜省略〜
+                    {
+                        "startTimeOffset": "596.395800s",
+                        "endTimeOffset": "596.429166s"
+                    }
+                ]
+            }
+        ]
+    }
+}

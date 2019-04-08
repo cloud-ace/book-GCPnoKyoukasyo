@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "transcript": "一生懸命頑張るあなたが大好きです",
+                    "confidence": 0.9878524
+                }
+            ]
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "一生懸命涙をこらえるあなたを愛おしく思います",
+                    "confidence": 0.9880953
+                }
+            ]
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "一生懸命人に尽くすあなたの側にいたくなります",
+                    "confidence": 0.98822606
+                }
+            ]
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "だから私も一生懸命応援するのですよ",
+                    "confidence": 0.9845393
+                }
+            ]
+        },
+        {
+            "alternatives": [
+                {
+                    "transcript": "疲れた時は私が癒しますのでどうか安心してください",
+                    "confidence": 0.9840561
+                }
+            ]
+        }
+    ]
+}
